@@ -18,3 +18,4 @@ Leave an issue or email karleerbradley@gmail.com
 
 This project was created by Karlee Bradley with the help of Megan Jones, Natalie Robinson, Leslie Goldman, and Katie Jones at NEON. 
 This internship was made possible by the Institute for Interdisciplinary Science at St. Edward's University.
+https://www.neonscience.org/observatory/observatory-blog/how-trees-life-can-change-ecosystem-plant-phenology-gypsy-moths-heat
